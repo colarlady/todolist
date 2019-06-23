@@ -1,0 +1,10 @@
+IDE ignore 
+
+FE ignore
+node_modules
+bower_comonents
+
+Debug ignore
+build/
+dist/
+npm-debug.log
